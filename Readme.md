@@ -34,3 +34,11 @@ python Ghost_scanner.py -f {{file.txt}}
 <p align="center">
 <img src="screenshot.png" alt="Ghost_scanner"/>
 </p>
+
+## Contributions and Feedback 🤧
+
+If you encounter any issues or have suggestions for improvements, please share them with us. Contributions are always welcome!
+
+## Warning ⚠️
+
+Running Ghost_Scanner may consume significant CPU resources. Ensure you are using a machine with adequate performance to avoid potential slowdowns or crashes. It is not recommended for use on low-specification systems.
