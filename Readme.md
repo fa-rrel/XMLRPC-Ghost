@@ -1,4 +1,4 @@
-# 😈 WordPress XMLRPC GHOST Vulnerability Scanner 😈
+😈 WordPress XMLRPC GHOST Vulnerability Scanner 😈
 
 ## 📜 Description
 
