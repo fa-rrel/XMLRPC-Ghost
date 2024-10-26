@@ -37,7 +37,7 @@ python Ghost_scanner.py -f {{file.txt}}
 
 ## Contributions and Feedback 🤧
 
-If you encounter any issues or have suggestions for improvements, please share them with us. Contributions are always welcome!
+If you encounter any issues or have suggestions for improvements, please share them with me. Contributions are always welcome!
 
 ## Warning ⚠️
 
