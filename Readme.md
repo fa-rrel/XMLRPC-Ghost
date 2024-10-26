@@ -31,3 +31,6 @@ python Ghost_scanner.py -u http://testphp.vulnweb.com/
 ```bash
 python Ghost_scanner.py -f {{file.txt}}
 ```
+<p align="center">
+<img src="screenshot.png" alt="Ghost_scanner"/>
+</p>
