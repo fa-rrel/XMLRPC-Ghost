@@ -23,4 +23,11 @@ This Python script scans for the **CVE-2015-0235** vulnerability in **WordPress*
 - Shodan = `"xmlrpc.php" "WordPress" port:80,443`
 
 ## 🛠️ Usage
+- Single target
 ```bash
+python Ghost_scanner.py -u http://testphp.vulnweb.com/
+```
+- Multiple target
+```bash
+python Ghost_scanner.py -f {{file.txt}}
+```
